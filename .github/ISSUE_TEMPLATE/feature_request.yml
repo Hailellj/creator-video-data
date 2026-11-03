@@ -1,0 +1,20 @@
+name: Feature request
+description: Suggest a workflow improvement or a verified platform route.
+title: "[Feature] "
+labels: []
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: The task you want to complete
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and limits
+      description: For platform routes, state what you tested and any quota or login requirements. Use public or synthetic examples.

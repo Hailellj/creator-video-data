@@ -1,0 +1,19 @@
+{
+  "project": "Offline Demo",
+  "inventory": "inventory.json",
+  "tasks": [
+    "metrics",
+    "comments"
+  ],
+  "collection_mode": "full",
+  "analysis": true,
+  "timezone": "UTC",
+  "requested_metrics": [
+    "views",
+    "likes",
+    "saves",
+    "comments",
+    "shares"
+  ],
+  "product_context": "Fictional Demo Phone"
+}

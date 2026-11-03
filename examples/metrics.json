@@ -1,0 +1,53 @@
+[
+  {
+    "row": 3,
+    "source_url": "https://www.youtube.com/watch?v=DEMO0000001",
+    "resolved_url": "https://www.youtube.com/watch?v=DEMO0000001",
+    "video_id": "DEMO0000001",
+    "platform": "YouTube",
+    "retrieved_at": "2026-01-15T10:00:00Z",
+    "status": "ok",
+    "metrics": {
+      "views": 1200,
+      "likes": 30,
+      "saves": null,
+      "comments": 2,
+      "shares": null
+    },
+    "notes": "Synthetic values for an offline example. null means unavailable; 0 means a known zero."
+  },
+  {
+    "row": 4,
+    "source_url": "https://www.tiktok.com/@example/video/0000000000000000001",
+    "resolved_url": "https://www.tiktok.com/@example/video/0000000000000000001",
+    "video_id": "0000000000000000001",
+    "platform": "TikTok",
+    "retrieved_at": "2026-01-15T10:00:00Z",
+    "status": "ok",
+    "metrics": {
+      "views": 6000,
+      "likes": 82,
+      "saves": 12,
+      "comments": 1,
+      "shares": 0
+    },
+    "notes": "Synthetic values for an offline example. null means unavailable; 0 means a known zero."
+  },
+  {
+    "row": 5,
+    "source_url": "https://www.instagram.com/reel/DEMOREEL001/",
+    "resolved_url": "https://www.instagram.com/reel/DEMOREEL001/",
+    "video_id": "DEMOREEL001",
+    "platform": "Instagram",
+    "retrieved_at": "2026-01-15T10:00:00Z",
+    "status": "ok",
+    "metrics": {
+      "views": 2400,
+      "likes": 40,
+      "saves": null,
+      "comments": 2,
+      "shares": null
+    },
+    "notes": "Synthetic values for an offline example. null means unavailable; 0 means a known zero."
+  }
+]

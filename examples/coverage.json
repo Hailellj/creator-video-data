@@ -1,0 +1,47 @@
+[
+  {
+    "source_row": 3,
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=DEMO0000001",
+    "canonical_url": "https://www.youtube.com/watch?v=DEMO0000001",
+    "video_id": "DEMO0000001",
+    "unique_records": 2,
+    "top_level": 1,
+    "replies": 1,
+    "reported_comment_count": 2,
+    "retrieved_at": "2026-01-15T10:00:00Z",
+    "raw_status": "complete_obtainable",
+    "method": "Synthetic offline fixture",
+    "notes": "Example count only; no platform was queried."
+  },
+  {
+    "source_row": 4,
+    "platform": "TikTok",
+    "source_url": "https://www.tiktok.com/@example/video/0000000000000000001",
+    "canonical_url": "https://www.tiktok.com/@example/video/0000000000000000001",
+    "video_id": "0000000000000000001",
+    "unique_records": 1,
+    "top_level": 1,
+    "replies": 0,
+    "reported_comment_count": 1,
+    "retrieved_at": "2026-01-15T10:00:00Z",
+    "raw_status": "complete_obtainable",
+    "method": "Synthetic offline fixture",
+    "notes": "Example count only; no platform was queried."
+  },
+  {
+    "source_row": 5,
+    "platform": "Instagram",
+    "source_url": "https://www.instagram.com/reel/DEMOREEL001/",
+    "canonical_url": "https://www.instagram.com/reel/DEMOREEL001/",
+    "video_id": "DEMOREEL001",
+    "unique_records": 2,
+    "top_level": 1,
+    "replies": 1,
+    "reported_comment_count": 2,
+    "retrieved_at": "2026-01-15T10:00:00Z",
+    "raw_status": "complete_obtainable",
+    "method": "Synthetic offline fixture",
+    "notes": "Example count only; no platform was queried."
+  }
+]

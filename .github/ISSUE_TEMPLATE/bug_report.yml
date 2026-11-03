@@ -1,0 +1,29 @@
+name: Bug report
+description: Report a reproducible problem with a local tool or documented route.
+title: "[Bug] "
+labels: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the result and the result you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the tool, command, platform, and a small synthetic example.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, Python version, skill version, and relevant tool version.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Safe error output
+      description: Remove credentials, cookies, personal paths, and private links before posting.

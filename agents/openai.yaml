@@ -1,0 +1,4 @@
+interface:
+  display_name: "网红视频数据与评论"
+  short_description: "按视频链接批量更新指标、收集评论并分析，保留来源、覆盖缺口与飞书交付验证"
+  default_prompt: "用 $creator-video-data 处理这份网红视频清单，按要求更新指标或收集评论并分析，记录缺口并验证飞书交付。"

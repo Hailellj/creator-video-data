@@ -1,0 +1,66 @@
+{
+  "tabs": [
+    {
+      "name": "Comments",
+      "headers": [
+        "Record ID",
+        "Comment ID",
+        "Platform",
+        "Original Text",
+        "Chinese Translation",
+        "Likes",
+        "Video Link"
+      ],
+      "rows": [
+        [
+          "C0001",
+          "yt-parent-01",
+          "YouTube",
+          "How much does it cost?",
+          "多少钱？",
+          0,
+          "https://www.youtube.com/watch?v=DEMO0000001"
+        ],
+        [
+          "C0002",
+          "yt-reply-01",
+          "YouTube",
+          "The example price is 200.",
+          "示例价格是200。",
+          2,
+          "https://www.youtube.com/watch?v=DEMO0000001"
+        ],
+        [
+          "C0003",
+          "00000000000000002001",
+          "TikTok",
+          "How much does it cost?",
+          "多少钱？",
+          3,
+          "https://www.tiktok.com/@example/video/0000000000000000001"
+        ],
+        [
+          "C0004",
+          "00000000000000003001",
+          "Instagram",
+          "I like the battery life.",
+          "我喜欢它的续航。",
+          null,
+          "https://www.instagram.com/reel/DEMOREEL001/"
+        ],
+        [
+          "C0005",
+          "00000000000000003002",
+          "Instagram",
+          "How long did your test last?",
+          "你测试了多久？",
+          1,
+          "https://www.instagram.com/reel/DEMOREEL001/"
+        ]
+      ],
+      "hyperlink_columns": [
+        6
+      ]
+    }
+  ]
+}
